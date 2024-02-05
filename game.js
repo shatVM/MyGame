@@ -147,7 +147,7 @@ function update() {
 
     //
     if (gameOver) {
-        return;
+        //refreshBody();
     }
 
     //
